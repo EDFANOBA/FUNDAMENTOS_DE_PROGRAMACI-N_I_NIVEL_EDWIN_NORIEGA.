@@ -1,2 +1,6 @@
 # FUNDAMENTOS_DE_PROGRAMACI-N_I_NIVEL_EDWIN_NORIEGA.
 REPOSITORIO PARA LA ASIGNATURA DE FUNDAMENTOS DE PRONGRAMACIÓN 
+
+# ACTIVIDADES SEMANA 11
+Programa 1: Búsqueda en Arreglo Multidimensional
+Programa 2: Ordenación de Arreglo Multidimensional
